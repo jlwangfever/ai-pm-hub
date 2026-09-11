@@ -1,0 +1,254 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 1871" width="1280" height="1871" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Microsoft YaHei, sans-serif">
+<rect width="1280" height="1871" fill="#f8fafc"/>
+<text x="32" y="42" font-size="22" font-weight="800" fill="#1f2937">ai-pm-hub · 产品经理全流程方法论（八段）</text>
+<text x="32" y="66" font-size="13" fill="#6b7280">5 子技能 · 8 段流程 · 54 reference · 3 教学课件 · 0 待扩充 · 数据版本 2026-09-11</text>
+<rect x="896" y="24" width="82" height="58" rx="8" fill="#059669" fill-opacity="0.08"/>
+<text x="937.0" y="45" font-size="10" fill="#6b7280" text-anchor="middle">子技能</text>
+<text x="937.0" y="69" font-size="22" font-weight="800" fill="#059669" text-anchor="middle">5</text>
+<rect x="986" y="24" width="82" height="58" rx="8" fill="#2563eb" fill-opacity="0.08"/>
+<text x="1027.0" y="45" font-size="10" fill="#6b7280" text-anchor="middle">段位</text>
+<text x="1027.0" y="69" font-size="22" font-weight="800" fill="#2563eb" text-anchor="middle">8</text>
+<rect x="1076" y="24" width="82" height="58" rx="8" fill="#0891b2" fill-opacity="0.08"/>
+<text x="1117.0" y="45" font-size="10" fill="#6b7280" text-anchor="middle">reference</text>
+<text x="1117.0" y="69" font-size="22" font-weight="800" fill="#0891b2" text-anchor="middle">54</text>
+<rect x="1166" y="24" width="82" height="58" rx="8" fill="#ea580c" fill-opacity="0.08"/>
+<text x="1207.0" y="45" font-size="10" fill="#6b7280" text-anchor="middle">教学</text>
+<text x="1207.0" y="69" font-size="22" font-weight="800" fill="#ea580c" text-anchor="middle">3</text>
+<line x1="34" y1="222" x2="34" y2="352" stroke="#ea580c" stroke-width="1.4" stroke-dasharray="2,2" opacity="0.5"/>
+<polygon points="30,352 38,352 34,359" fill="#ea580c" opacity="0.65"/>
+<line x1="34" y1="415" x2="34" y2="545" stroke="#ea580c" stroke-width="1.4" stroke-dasharray="2,2" opacity="0.5"/>
+<polygon points="30,545 38,545 34,552" fill="#ea580c" opacity="0.65"/>
+<line x1="34" y1="608" x2="34" y2="738" stroke="#ea580c" stroke-width="1.4" stroke-dasharray="2,2" opacity="0.5"/>
+<polygon points="30,738 38,738 34,745" fill="#ea580c" opacity="0.65"/>
+<line x1="34" y1="801" x2="34" y2="935" stroke="#ea580c" stroke-width="1.4" stroke-dasharray="2,2" opacity="0.5"/>
+<polygon points="30,935 38,935 34,942" fill="#ea580c" opacity="0.65"/>
+<line x1="34" y1="801" x2="34" y2="1135" stroke="#ea580c" stroke-width="1.4" stroke-dasharray="2,2" opacity="0.5"/>
+<polygon points="30,1135 38,1135 34,1142" fill="#ea580c" opacity="0.65"/>
+<line x1="34" y1="801" x2="34" y2="1322" stroke="#ea580c" stroke-width="1.4" stroke-dasharray="2,2" opacity="0.5"/>
+<polygon points="30,1322 38,1322 34,1329" fill="#ea580c" opacity="0.65"/>
+<line x1="34" y1="1198" x2="34" y2="1322" stroke="#ea580c" stroke-width="1.4" stroke-dasharray="2,2" opacity="0.5"/>
+<polygon points="30,1322 38,1322 34,1329" fill="#ea580c" opacity="0.65"/>
+<line x1="34" y1="998" x2="34" y2="1322" stroke="#ea580c" stroke-width="1.4" stroke-dasharray="2,2" opacity="0.5"/>
+<polygon points="30,1322 38,1322 34,1329" fill="#ea580c" opacity="0.65"/>
+<line x1="34" y1="1198" x2="34" y2="1510" stroke="#ea580c" stroke-width="1.4" stroke-dasharray="2,2" opacity="0.5"/>
+<polygon points="30,1510 38,1510 34,1517" fill="#ea580c" opacity="0.65"/>
+<line x1="34" y1="1385" x2="34" y2="1510" stroke="#ea580c" stroke-width="1.4" stroke-dasharray="2,2" opacity="0.5"/>
+<polygon points="30,1510 38,1510 34,1517" fill="#ea580c" opacity="0.65"/>
+<line x1="64" y1="96" x2="64" y2="293" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="3,3"/>
+<circle cx="64" cy="194" r="26" fill="#7c3aed"/><text x="64" y="195" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">1</text>
+<rect x="120" y="108" width="1128" height="173" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+<rect x="120" y="108" width="5" height="173" rx="2.5" fill="#7c3aed"/>
+<text x="140" y="130" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">归属</text>
+<rect x="140" y="138" width="158" height="46" rx="7" fill="#7c3aed" fill-opacity="0.10" stroke="#7c3aed" stroke-width="1.2"/>
+<circle cx="154" cy="154" r="4.5" fill="#7c3aed"/>
+<text x="165" y="154" font-size="13" font-weight="600" fill="#7c3aed" dominant-baseline="middle">市场洞察</text>
+<text x="154" y="172" font-size="10" fill="#6b7280" dominant-baseline="middle">8 份 reference</text>
+<text x="140" y="208" font-size="19" font-weight="700" fill="#1f2937">市场洞察</text>
+<text x="140" y="235" font-size="10.5" fill="#6b7280">含 8 份框架</text>
+<text x="328" y="130" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">覆盖文档</text>
+<text x="328" y="148" font-size="12.5" fill="#4b5563">PESTLE 宏观环境 · 市场规模 TAM/SAM/SOM · SWOT · 竞品</text>
+<text x="328" y="165" font-size="12.5" fill="#4b5563">分析 · 产品愿景</text>
+<text x="692" y="130" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">段内顺序</text>
+<text x="692" y="148" font-size="12" fill="#4b5563">PESTLE → 市场规模 → SWOT ⇄ 竞品 → 产品愿景</text>
+<text x="980" y="130" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">产出物</text>
+<text x="980" y="148" font-size="12.5" font-weight="600" fill="#1f2937">5 份框架文档 + 1 套示例</text>
+<text x="980" y="177" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">framework-overview</text>
+<text x="980" y="192" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">01-pestle</text>
+<text x="980" y="207" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">02-swot</text>
+<text x="980" y="222" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">03-market-size</text>
+<text x="980" y="237" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">04-competitor</text>
+<text x="980" y="252" font-size="10" fill="#6b7280">+3 个文件（详见技能目录）</text>
+<line x1="64" y1="289" x2="64" y2="486" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="3,3"/>
+<circle cx="64" cy="387" r="26" fill="#2563eb"/><text x="64" y="388" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">2</text>
+<rect x="120" y="301" width="1128" height="173" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+<rect x="120" y="301" width="5" height="173" rx="2.5" fill="#2563eb"/>
+<text x="140" y="323" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">归属</text>
+<rect x="140" y="331" width="158" height="46" rx="7" fill="#2563eb" fill-opacity="0.10" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="154" cy="347" r="4.5" fill="#2563eb"/>
+<text x="165" y="347" font-size="13" font-weight="600" fill="#2563eb" dominant-baseline="middle">用户与价值定义</text>
+<text x="154" y="365" font-size="10" fill="#6b7280" dominant-baseline="middle">7 份 reference</text>
+<text x="140" y="401" font-size="19" font-weight="700" fill="#1f2937">用户与价值定义</text>
+<text x="140" y="428" font-size="10.5" fill="#6b7280">含 7 份框架</text>
+<text x="328" y="323" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">覆盖文档</text>
+<text x="328" y="341" font-size="12.5" fill="#4b5563">用户画像 Persona · 价值主张 · 理想客户画像 ICP · 定位</text>
+<text x="328" y="358" font-size="12.5" fill="#4b5563">策略 · 滩头阵地</text>
+<text x="692" y="323" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">段内顺序</text>
+<text x="692" y="341" font-size="12" fill="#4b5563">用户画像 → 价值主张 → ICP → 定位 → 滩头</text>
+<text x="980" y="323" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">产出物</text>
+<text x="980" y="341" font-size="12.5" font-weight="600" fill="#1f2937">5 份框架文档 + 1 套示例</text>
+<text x="980" y="370" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">framework-overview</text>
+<text x="980" y="385" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">06-persona</text>
+<text x="980" y="400" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">07-value-proposition</text>
+<text x="980" y="415" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">08-icp</text>
+<text x="980" y="430" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">09-positioning</text>
+<text x="980" y="445" font-size="10" fill="#6b7280">+2 个文件（详见技能目录）</text>
+<line x1="64" y1="482" x2="64" y2="679" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="3,3"/>
+<circle cx="64" cy="580" r="26" fill="#0891b2"/><text x="64" y="581" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">3</text>
+<rect x="120" y="494" width="1128" height="173" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+<rect x="120" y="494" width="5" height="173" rx="2.5" fill="#0891b2"/>
+<text x="140" y="516" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">归属</text>
+<rect x="140" y="524" width="158" height="46" rx="7" fill="#0891b2" fill-opacity="0.10" stroke="#0891b2" stroke-width="1.2"/>
+<circle cx="154" cy="540" r="4.5" fill="#0891b2"/>
+<text x="165" y="540" font-size="13" font-weight="600" fill="#0891b2" dominant-baseline="middle">验证与商业模式</text>
+<text x="154" y="558" font-size="10" fill="#6b7280" dominant-baseline="middle">10 份 reference</text>
+<text x="140" y="594" font-size="19" font-weight="700" fill="#1f2937">验证与商业模式</text>
+<text x="140" y="621" font-size="10.5" fill="#6b7280">含 10 份框架</text>
+<text x="328" y="516" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">覆盖文档</text>
+<text x="328" y="534" font-size="12.5" fill="#4b5563">假设识别与验证 · 精益画布 · 北极星指标 · 机会解决方案</text>
+<text x="328" y="551" font-size="12.5" fill="#4b5563">树 · 干系人地图 · Pre-Mortem · GTM 策略 · 功能优先级</text>
+<text x="692" y="516" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">段内顺序</text>
+<text x="692" y="534" font-size="12" fill="#4b5563">验证线：假设 → OST → Pre-Mortem</text>
+<text x="692" y="551" font-size="12" fill="#4b5563">商业线：精益画布 → 北极星 → GTM → 优先级</text>
+<text x="692" y="568" font-size="12" fill="#4b5563">干系人贯穿</text>
+<text x="980" y="516" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">产出物</text>
+<text x="980" y="534" font-size="12.5" font-weight="600" fill="#1f2937">8 份框架文档 + 1 套示例</text>
+<text x="980" y="563" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">framework-overview</text>
+<text x="980" y="578" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">11-assumption-validation</text>
+<text x="980" y="593" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">12-lean-canvas</text>
+<text x="980" y="608" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">13-north-star-metric</text>
+<text x="980" y="623" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">14-opportunity-solution-tree</text>
+<text x="980" y="638" font-size="10" fill="#6b7280">+5 个文件（详见技能目录）</text>
+<line x1="64" y1="675" x2="64" y2="872" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="3,3"/>
+<circle cx="64" cy="773" r="26" fill="#059669"/><text x="64" y="774" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">4</text>
+<rect x="120" y="687" width="1128" height="173" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+<rect x="120" y="687" width="5" height="173" rx="2.5" fill="#059669"/>
+<text x="140" y="709" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">归属</text>
+<rect x="140" y="717" width="158" height="46" rx="7" fill="#059669" fill-opacity="0.10" stroke="#059669" stroke-width="1.2"/>
+<circle cx="154" cy="733" r="4.5" fill="#059669"/>
+<text x="165" y="733" font-size="13" font-weight="600" fill="#059669" dominant-baseline="middle">产品设计</text>
+<text x="154" y="751" font-size="10" fill="#6b7280" dominant-baseline="middle">26 份 reference</text>
+<text x="140" y="787" font-size="19" font-weight="700" fill="#1f2937">产品设计</text>
+<text x="140" y="814" font-size="10.5" fill="#6b7280">含 24 份框架</text>
+<text x="328" y="709" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">覆盖文档</text>
+<text x="328" y="727" font-size="12.5" fill="#4b5563">信息架构 · 交互流程 · 权限模型 · 业务系统×6 (批改/出</text>
+<text x="328" y="744" font-size="12.5" fill="#4b5563">题/审核/诊断/自适应/复习) · Agent 系统 · 分析预警 · </text>
+<text x="328" y="761" font-size="12.5" fill="#4b5563">评测体系 · 外围端 · 数据/API/设计系统/部署/选型 · 前</text>
+<text x="328" y="778" font-size="12.5" fill="#4b5563">端规格 · 流式渲染 · 知识图谱 · 系统架构</text>
+<text x="692" y="709" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">段内顺序</text>
+<text x="692" y="727" font-size="12" fill="#4b5563">信息架构 → 流程权限 → 业务系统 → Agent → </text>
+<text x="692" y="744" font-size="12" fill="#4b5563">数据分析 → 支撑系统 → 技术基础 → 前端整合</text>
+<text x="980" y="709" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">产出物</text>
+<text x="980" y="727" font-size="12.5" font-weight="600" fill="#1f2937">22 份框架 + 2 套示例</text>
+<text x="980" y="756" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">framework-overview</text>
+<text x="980" y="771" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">20-information-architecture</text>
+<text x="980" y="786" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">21-interaction-flow</text>
+<text x="980" y="801" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">22-permission-model</text>
+<text x="980" y="816" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">23-ocr-grading-pipeline</text>
+<text x="980" y="831" font-size="10" fill="#6b7280">+19 个文件（详见技能目录）</text>
+<line x1="64" y1="868" x2="64" y2="1072" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="3,3"/>
+<circle cx="64" cy="970" r="26" fill="#dc2626"/><text x="64" y="971" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">5</text>
+<rect x="120" y="880" width="1128" height="180" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+<rect x="120" y="880" width="5" height="180" rx="2.5" fill="#dc2626"/>
+<text x="140" y="902" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">归属</text>
+<rect x="140" y="910" width="158" height="46" rx="7" fill="#dc2626" fill-opacity="0.10" stroke="#dc2626" stroke-width="1.2"/>
+<circle cx="154" cy="926" r="4.5" fill="#dc2626"/>
+<text x="165" y="926" font-size="13" font-weight="600" fill="#dc2626" dominant-baseline="middle">PRD 风格写作</text>
+<text x="154" y="944" font-size="10" fill="#6b7280" dominant-baseline="middle">3 份 reference</text>
+<text x="140" y="980" font-size="19" font-weight="700" fill="#1f2937">PRD 风格学习与写</text>
+<text x="140" y="1005" font-size="19" font-weight="700" fill="#1f2937">作</text>
+<text x="140" y="1032" font-size="10.5" fill="#6b7280">含 3 份框架</text>
+<text x="328" y="902" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">覆盖文档</text>
+<text x="328" y="920" font-size="12.5" fill="#4b5563">学习我的 PRD 风格档案 · 按我的风格写新领域 PRD · 三种</text>
+<text x="328" y="937" font-size="12.5" fill="#4b5563">结构变体（A 标准 / B 极简 / C Agent 全生命周期）</text>
+<text x="692" y="902" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">段内顺序</text>
+<text x="692" y="920" font-size="12" fill="#4b5563">learn 提取风格 → write 按风格写</text>
+<text x="980" y="902" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">产出物</text>
+<text x="980" y="920" font-size="12.5" font-weight="600" fill="#1f2937">1 份风格档案 + 模板 + 解析脚本</text>
+<text x="980" y="949" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">profile/prd_style_profile</text>
+<text x="980" y="964" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">references/style_profile_template</text>
+<text x="980" y="979" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">scripts/parse_docx + parse_pdf</text>
+<line x1="64" y1="1068" x2="64" y2="1272" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="3,3"/>
+<circle cx="64" cy="1170" r="26" fill="#059669"/><text x="64" y="1171" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">6</text>
+<rect x="120" y="1080" width="1128" height="180" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+<rect x="120" y="1080" width="5" height="180" rx="2.5" fill="#059669"/>
+<text x="140" y="1102" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">归属</text>
+<rect x="140" y="1110" width="158" height="46" rx="7" fill="#059669" fill-opacity="0.10" stroke="#059669" stroke-width="1.2"/>
+<circle cx="154" cy="1126" r="4.5" fill="#059669"/>
+<text x="165" y="1126" font-size="13" font-weight="600" fill="#059669" dominant-baseline="middle">产品设计</text>
+<text x="154" y="1144" font-size="10" fill="#6b7280" dominant-baseline="middle">26 份 reference</text>
+<text x="140" y="1180" font-size="19" font-weight="700" fill="#1f2937">DESIGN.md 设计</text>
+<text x="140" y="1205" font-size="19" font-weight="700" fill="#1f2937">规范落地</text>
+<text x="140" y="1232" font-size="10.5" fill="#6b7280">含 2 份框架</text>
+<text x="328" y="1102" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">覆盖文档</text>
+<text x="328" y="1120" font-size="12.5" fill="#4b5563">AI 编码代理自动读取的设计规范 · YAML token + 复用矩阵 </text>
+<text x="328" y="1137" font-size="12.5" fill="#4b5563">+ MUST/NEVER 规则 · C 编号约束表 + G 编号缺口表与回填</text>
+<text x="692" y="1102" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">段内顺序</text>
+<text x="692" y="1120" font-size="12" fill="#4b5563">提取设计参数 → 抽象组件模式 → 翻译约束规则 </text>
+<text x="692" y="1137" font-size="12" fill="#4b5563">→ 整体约束与缺口表</text>
+<text x="980" y="1102" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">产出物</text>
+<text x="980" y="1120" font-size="12.5" font-weight="600" fill="#1f2937">1 份框架 + 1 套 ChemAI 真实成品样例</text>
+<text x="980" y="1149" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">43-design-md</text>
+<text x="980" y="1164" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">_example-designmd-chemai</text>
+<line x1="64" y1="1268" x2="64" y2="1447" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="3,3"/>
+<circle cx="64" cy="1357" r="26" fill="#059669"/><text x="64" y="1358" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">7</text>
+<rect x="120" y="1280" width="1128" height="155" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+<rect x="120" y="1280" width="5" height="155" rx="2.5" fill="#059669"/>
+<text x="140" y="1302" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">归属</text>
+<rect x="140" y="1310" width="158" height="46" rx="7" fill="#059669" fill-opacity="0.10" stroke="#059669" stroke-width="1.2"/>
+<circle cx="154" cy="1326" r="4.5" fill="#059669"/>
+<text x="165" y="1326" font-size="13" font-weight="600" fill="#059669" dominant-baseline="middle">产品设计</text>
+<text x="154" y="1344" font-size="10" fill="#6b7280" dominant-baseline="middle">26 份 reference</text>
+<text x="140" y="1380" font-size="19" font-weight="700" fill="#1f2937">原型设计</text>
+<text x="140" y="1407" font-size="10.5" fill="#6b7280">含 2 份框架</text>
+<text x="328" y="1302" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">覆盖文档</text>
+<text x="328" y="1320" font-size="12.5" fill="#4b5563">七维度方案 · Review 三关 · 原型生成（HTML / figma / </text>
+<text x="328" y="1337" font-size="12.5" fill="#4b5563">墨刀 / stitch） · 需求标注追溯码 · 原型说明文档（七节</text>
+<text x="328" y="1354" font-size="12.5" fill="#4b5563">模块格式）</text>
+<text x="692" y="1302" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">段内顺序</text>
+<text x="692" y="1320" font-size="12" fill="#4b5563">先画施工图，再盖楼：方案 → Review → 生成 →</text>
+<text x="692" y="1337" font-size="12" fill="#4b5563"> 标注 → 交开发</text>
+<text x="980" y="1302" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">产出物</text>
+<text x="980" y="1320" font-size="12.5" font-weight="600" fill="#1f2937">2 份框架（七维度 + 说明文档）</text>
+<text x="980" y="1349" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">41-prototype-validation</text>
+<text x="980" y="1364" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">44-prototype-spec</text>
+<line x1="64" y1="1443" x2="64" y2="1647" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="3,3"/>
+<circle cx="64" cy="1545" r="26" fill="#059669"/><text x="64" y="1546" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">8</text>
+<rect x="120" y="1455" width="1128" height="180" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+<rect x="120" y="1455" width="5" height="180" rx="2.5" fill="#059669"/>
+<text x="140" y="1477" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">归属</text>
+<rect x="140" y="1485" width="158" height="46" rx="7" fill="#059669" fill-opacity="0.10" stroke="#059669" stroke-width="1.2"/>
+<circle cx="154" cy="1501" r="4.5" fill="#059669"/>
+<text x="165" y="1501" font-size="13" font-weight="600" fill="#059669" dominant-baseline="middle">产品设计</text>
+<text x="154" y="1519" font-size="10" fill="#6b7280" dominant-baseline="middle">26 份 reference</text>
+<text x="140" y="1555" font-size="19" font-weight="700" fill="#1f2937">UI 实现（Vibe Co</text>
+<text x="140" y="1580" font-size="19" font-weight="700" fill="#1f2937">ding）</text>
+<text x="140" y="1607" font-size="10.5" fill="#6b7280">含 1 份框架</text>
+<text x="328" y="1477" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">覆盖文档</text>
+<text x="328" y="1495" font-size="12.5" fill="#4b5563">五步法：问框架 → 选组件库 → 对组件名 → 写代码 → 要迭</text>
+<text x="328" y="1512" font-size="12.5" fill="#4b5563">代 · 自做/公司两场景话术 · 框架-组件库对照表</text>
+<text x="692" y="1477" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">段内顺序</text>
+<text x="692" y="1495" font-size="12" fill="#4b5563">问框架 → 选组件库 → 对组件名 → 写代码 → 要</text>
+<text x="692" y="1512" font-size="12" fill="#4b5563">迭代</text>
+<text x="980" y="1477" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">产出物</text>
+<text x="980" y="1495" font-size="12.5" font-weight="600" fill="#1f2937">1 份框架（五步法 + 对照表）</text>
+<text x="980" y="1524" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">45-ui-vibe-coding</text>
+<text x="32" y="1681" font-size="13" font-weight="700" fill="#ea580c">教学素材</text>
+<text x="108" y="1681" font-size="11" fill="#6b7280">PM 新人友好入口 — 说「直播课件」「产品设计七层」「SWOT 提示词」时调取</text>
+<rect x="32" y="1693" width="394" height="88" rx="8" fill="#ea580c" fill-opacity="0.06" stroke="#ea580c" stroke-width="1.2"/>
+<text x="46" y="1715" font-size="12" font-weight="700" fill="#ea580c">03-直播课件</text>
+<text x="46" y="1735" font-size="11.5" fill="#4b5563">用 WorkBuddy 写出 ChemAI 18 份文档</text>
+<text x="46" y="1769" font-size="10.5" fill="#6b7280">覆盖：1→3 段串讲</text>
+<rect x="442" y="1693" width="394" height="88" rx="8" fill="#ea580c" fill-opacity="0.06" stroke="#ea580c" stroke-width="1.2"/>
+<text x="456" y="1715" font-size="12" font-weight="700" fill="#ea580c">产品设计七层课件</text>
+<text x="456" y="1735" font-size="11.5" fill="#4b5563">ChemAI 产品设计 — 业务系统 · Agent 设计 · 评测体系 · 原型验证</text>
+<text x="456" y="1751" font-size="11.5" fill="#4b5563">（v41，46 页）</text>
+<text x="456" y="1769" font-size="10.5" fill="#6b7280">覆盖：4+6+7 段（七设计层 + 35/38/43/41）</text>
+<rect x="852" y="1693" width="394" height="88" rx="8" fill="#ea580c" fill-opacity="0.06" stroke="#ea580c" stroke-width="1.2"/>
+<text x="866" y="1715" font-size="12" font-weight="700" fill="#ea580c">SWOT 配套提示词</text>
+<text x="866" y="1735" font-size="11.5" fill="#4b5563">素材整理→初稿→强化→自检 4 段</text>
+<text x="866" y="1769" font-size="10.5" fill="#6b7280">覆盖：第 1 段 02-SWOT 配套</text>
+<text x="32" y="1801" font-size="11" font-weight="700" fill="#1f2937">同步更新约定</text>
+<text x="32" y="1819" font-size="10.5" fill="#6b7280">编辑 capability-map-data.json → python3 capability-map-gen.py → 检查 SVG 无溢出（本图文本自动换行、行高按内容自适应）</text>
+<text x="32" y="1837" font-size="10.5" fill="#6b7280">段间依赖：1→2→3→4→5、4→6/7、6→7/8、7→8 — 完整清单见 data 文件 dependencies 字段</text>
+<text x="908" y="1805" font-size="11" font-weight="700" fill="#1f2937">子技能配色</text>
+<circle cx="986" cy="1801" r="5" fill="#7c3aed"/>
+<text x="995" y="1805" font-size="10" fill="#4b5563">mi</text>
+<circle cx="1042" cy="1801" r="5" fill="#2563eb"/>
+<text x="1051" y="1805" font-size="10" fill="#4b5563">uv</text>
+<circle cx="1098" cy="1801" r="5" fill="#0891b2"/>
+<text x="1107" y="1805" font-size="10" fill="#4b5563">vb</text>
+<circle cx="1154" cy="1801" r="5" fill="#059669"/>
+<text x="1163" y="1805" font-size="10" fill="#4b5563">pd</text>
+<circle cx="1210" cy="1801" r="5" fill="#dc2626"/>
+<text x="1219" y="1805" font-size="10" fill="#4b5563">prd</text>
+</svg>

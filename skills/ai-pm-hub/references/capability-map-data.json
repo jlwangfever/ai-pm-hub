@@ -1,0 +1,113 @@
+{
+  "title": "ai-pm-hub · 产品经理全流程方法论（八段）",
+  "subtitle": "5 子技能 · 8 段流程 · 54 reference · 3 教学课件 · 0 待扩充",
+  "version": "2026-09-11",
+  "skills": [
+    {"id": "mi",   "name": "市场洞察",                    "short": "市场洞察",           "color": "#7c3aed", "refs": 8,  "segments": [1]},
+    {"id": "uv",   "name": "用户与价值定义",               "short": "用户与价值定义",      "color": "#2563eb", "refs": 7,  "segments": [2]},
+    {"id": "vb",   "name": "验证与商业模式",               "short": "验证与商业模式",      "color": "#0891b2", "refs": 10, "segments": [3]},
+    {"id": "pd",   "name": "产品设计 + DESIGN.md + 原型 + UI", "short": "产品设计",        "color": "#059669", "refs": 26, "segments": [4, 6, 7, 8]},
+    {"id": "prd",  "name": "PRD 风格学习与写作",            "short": "PRD 风格写作",       "color": "#dc2626", "refs": 3,  "segments": [5]}
+  ],
+  "segments": [
+    {
+      "no": 1, "name": "市场洞察", "skill": "mi",
+      "covers": ["PESTLE 宏观环境", "市场规模 TAM/SAM/SOM", "SWOT", "竞品分析", "产品愿景"],
+      "internal_flow": "PESTLE → 市场规模 → SWOT ⇄ 竞品 → 产品愿景",
+      "deliverable": "5 份框架文档 + 1 套示例",
+      "ref_files": ["framework-overview.md", "01-pestle.md", "02-swot.md", "03-market-size.md", "04-competitor.md", "05-vision.md", "_example-chemai.md", "prompts-swot.md"],
+      "teaching": null
+    },
+    {
+      "no": 2, "name": "用户与价值定义", "skill": "uv",
+      "covers": ["用户画像 Persona", "价值主张", "理想客户画像 ICP", "定位策略", "滩头阵地"],
+      "internal_flow": "用户画像 → 价值主张 → ICP → 定位 → 滩头",
+      "deliverable": "5 份框架文档 + 1 套示例",
+      "ref_files": ["framework-overview.md", "06-persona.md", "07-value-proposition.md", "08-icp.md", "09-positioning.md", "10-beachhead.md", "_example-chemai.md"],
+      "teaching": null
+    },
+    {
+      "no": 3, "name": "验证与商业模式", "skill": "vb",
+      "covers": ["假设识别与验证", "精益画布", "北极星指标", "机会解决方案树", "干系人地图", "Pre-Mortem", "GTM 策略", "功能优先级"],
+      "internal_flow": "验证线：假设 → OST → Pre-Mortem\n商业线：精益画布 → 北极星 → GTM → 优先级\n干系人贯穿",
+      "deliverable": "8 份框架文档 + 1 套示例",
+      "ref_files": ["framework-overview.md", "11-assumption-validation.md", "12-lean-canvas.md", "13-north-star-metric.md", "14-opportunity-solution-tree.md", "15-stakeholder-map.md", "16-pre-mortem.md", "17-gtm.md", "18-feature-prioritization.md", "_example-chemai.md"],
+      "teaching": null
+    },
+    {
+      "no": 4, "name": "产品设计", "skill": "pd",
+      "covers": ["信息架构", "交互流程", "权限模型", "业务系统×6 (批改/出题/审核/诊断/自适应/复习)", "Agent 系统", "分析预警", "评测体系", "外围端", "数据/API/设计系统/部署/选型", "前端规格", "流式渲染", "知识图谱", "系统架构"],
+      "internal_flow": "信息架构 → 流程权限 → 业务系统 → Agent → 数据分析 → 支撑系统 → 技术基础 → 前端整合",
+      "deliverable": "22 份框架 + 2 套示例",
+      "ref_files": ["framework-overview.md", "20-information-architecture.md", "21-interaction-flow.md", "22-permission-model.md", "23-ocr-grading-pipeline.md", "24-question-bank-generation.md", "25-safety-review-engine.md", "26-diagnosis-barrier.md", "27-adaptive-practice.md", "28-spaced-repetition.md", "29-agent-system.md", "30-analytics-warning.md", "31-evaluation-system.md", "32-parent-notification.md", "33-37-tech-foundation.md", "38-frontend-spec.md", "39-sse-rendering.md", "40-graphrag-knowledge.md", "41-prototype-validation.md", "42-system-architecture.md", "44-prototype-spec.md", "45-ui-vibe-coding.md", "_example-chemai.md", "_example-designmd-chemai.md"],
+      "teaching": null
+    },
+    {
+      "no": 5, "name": "PRD 风格学习与写作", "skill": "prd",
+      "covers": ["学习我的 PRD 风格档案", "按我的风格写新领域 PRD", "三种结构变体（A 标准 / B 极简 / C Agent 全生命周期）"],
+      "internal_flow": "learn 提取风格 → write 按风格写",
+      "deliverable": "1 份风格档案 + 模板 + 解析脚本",
+      "ref_files": ["profile/prd_style_profile.md", "references/style_profile_template.md", "scripts/parse_docx.py + parse_pdf.py"],
+      "teaching": null
+    },
+    {
+      "no": 6, "name": "DESIGN.md 设计规范落地", "skill": "pd",
+      "covers": ["AI 编码代理自动读取的设计规范", "YAML token + 复用矩阵 + MUST/NEVER 规则", "C 编号约束表 + G 编号缺口表与回填"],
+      "internal_flow": "提取设计参数 → 抽象组件模式 → 翻译约束规则 → 整体约束与缺口表",
+      "deliverable": "1 份框架 + 1 套 ChemAI 真实成品样例",
+      "ref_files": ["43-design-md.md", "_example-designmd-chemai.md"],
+      "teaching": null
+    },
+    {
+      "no": 7, "name": "原型设计", "skill": "pd",
+      "covers": ["七维度方案", "Review 三关", "原型生成（HTML / figma / 墨刀 / stitch）", "需求标注追溯码", "原型说明文档（七节模块格式）"],
+      "internal_flow": "先画施工图，再盖楼：方案 → Review → 生成 → 标注 → 交开发",
+      "deliverable": "2 份框架（七维度 + 说明文档）",
+      "ref_files": ["41-prototype-validation.md", "44-prototype-spec.md"],
+      "teaching": null
+    },
+    {
+      "no": 8, "name": "UI 实现（Vibe Coding）", "skill": "pd",
+      "covers": ["五步法：问框架 → 选组件库 → 对组件名 → 写代码 → 要迭代", "自做/公司两场景话术", "框架-组件库对照表"],
+      "internal_flow": "问框架 → 选组件库 → 对组件名 → 写代码 → 要迭代",
+      "deliverable": "1 份框架（五步法 + 对照表）",
+      "ref_files": ["45-ui-vibe-coding.md"],
+      "teaching": null
+    }
+  ],
+  "teaching_assets": [
+    {
+      "name": "03-直播课件",
+      "title": "用 WorkBuddy 写出 ChemAI 18 份文档",
+      "covers": "1→3 段串讲",
+      "path": "ai-pm-hub/references/teaching/courseware-1to3.html",
+      "index": "ai-pm-hub/references/teaching/courseware-1to3.md"
+    },
+    {
+      "name": "产品设计七层课件",
+      "title": "ChemAI 产品设计 — 业务系统 · Agent 设计 · 评测体系 · 原型验证（v41，46 页）",
+      "covers": "4+6+7 段（七设计层 + 35/38/43/41）",
+      "path": "product-design-writer/references/teaching/courseware-design.html",
+      "index": "product-design-writer/references/teaching/courseware-design.md"
+    },
+    {
+      "name": "SWOT 配套提示词",
+      "title": "素材整理→初稿→强化→自检 4 段",
+      "covers": "第 1 段 02-SWOT 配套",
+      "path": "market-insight-writer/references/prompts-swot.md",
+      "index": null
+    }
+  ],
+  "dependencies": [
+    {"from": 1, "to": 2, "carry": "市场规模 + 竞品结论 → ICP/滩头边界"},
+    {"from": 2, "to": 3, "carry": "用户痛点 → 待验证假设；价值主张 → 画布/定价；ICP → 客户细分"},
+    {"from": 3, "to": 4, "carry": "功能优先级 → 设计层与系统的落地顺序；NSM → 分析/评测埋点"},
+    {"from": 4, "to": 5, "carry": "设计模块 + 状态 → PRD 功能详述；产品愿景 → PRD 背景/目标"},
+    {"from": 4, "to": 6, "carry": "35 设计系统 + 38 前端规格 → DESIGN.md 压缩提炼（零发明）"},
+    {"from": 4, "to": 7, "carry": "设计文档 + PRD → 原型七维度方案"},
+    {"from": 6, "to": 7, "carry": "DESIGN.md 视觉约束 + 原型交互基准 → 原型说明文档"},
+    {"from": 5, "to": 7, "carry": "PRD 需求编号 → 需求标注追溯码"},
+    {"from": 6, "to": 8, "carry": "DESIGN.md 组件规则 → 组件库真实组件（对组件名）"},
+    {"from": 7, "to": 8, "carry": "原型交互与状态 → UI 组件实现基准"}
+  ]
+}

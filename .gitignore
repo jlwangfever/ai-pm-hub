@@ -1,0 +1,21 @@
+# OS / 编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# 临时文件
+*.tmp
+*.bak
+*.orig
+.~*

@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 1871" width="1280" height="1871" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Microsoft YaHei, sans-serif">
-<rect width="1280" height="1871" fill="#f8fafc"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 1739" width="1280" height="1739" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Microsoft YaHei, sans-serif">
+<rect width="1280" height="1739" fill="#f8fafc"/>
 <text x="32" y="42" font-size="22" font-weight="800" fill="#1f2937">ai-pm-hub · 产品经理全流程方法论（八段）</text>
-<text x="32" y="66" font-size="13" fill="#6b7280">5 子技能 · 8 段流程 · 54 reference · 3 教学课件 · 0 待扩充 · 数据版本 2026-09-11</text>
+<text x="32" y="66" font-size="13" fill="#6b7280">5 子技能 · 8 段流程 · 54 reference · 0 教学课件 · 0 教学 · 0 待扩充 · 数据版本 2026-09-11</text>
 <rect x="896" y="24" width="82" height="58" rx="8" fill="#059669" fill-opacity="0.08"/>
 <text x="937.0" y="45" font-size="10" fill="#6b7280" text-anchor="middle">子技能</text>
 <text x="937.0" y="69" font-size="22" font-weight="800" fill="#059669" text-anchor="middle">5</text>
@@ -13,7 +13,7 @@
 <text x="1117.0" y="69" font-size="22" font-weight="800" fill="#0891b2" text-anchor="middle">54</text>
 <rect x="1166" y="24" width="82" height="58" rx="8" fill="#ea580c" fill-opacity="0.08"/>
 <text x="1207.0" y="45" font-size="10" fill="#6b7280" text-anchor="middle">教学</text>
-<text x="1207.0" y="69" font-size="22" font-weight="800" fill="#ea580c" text-anchor="middle">3</text>
+<text x="1207.0" y="69" font-size="22" font-weight="800" fill="#ea580c" text-anchor="middle">0</text>
 <line x1="34" y1="222" x2="34" y2="352" stroke="#ea580c" stroke-width="1.4" stroke-dasharray="2,2" opacity="0.5"/>
 <polygon points="30,352 38,352 34,359" fill="#ea580c" opacity="0.65"/>
 <line x1="34" y1="415" x2="34" y2="545" stroke="#ea580c" stroke-width="1.4" stroke-dasharray="2,2" opacity="0.5"/>
@@ -176,7 +176,7 @@
 <text x="692" y="1120" font-size="12" fill="#4b5563">提取设计参数 → 抽象组件模式 → 翻译约束规则 </text>
 <text x="692" y="1137" font-size="12" fill="#4b5563">→ 整体约束与缺口表</text>
 <text x="980" y="1102" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">产出物</text>
-<text x="980" y="1120" font-size="12.5" font-weight="600" fill="#1f2937">1 份框架 + 1 套 ChemAI 真实成品样例</text>
+<text x="980" y="1120" font-size="12.5" font-weight="600" fill="#1f2937">1 份框架 + 1 套脱敏示例样例</text>
 <text x="980" y="1149" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">43-design-md</text>
 <text x="980" y="1164" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">_example-designmd-chemai</text>
 <line x1="64" y1="1268" x2="64" y2="1447" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="3,3"/>
@@ -222,33 +222,19 @@
 <text x="980" y="1477" font-size="10" font-weight="700" letter-spacing="1.1" fill="#6b7280">产出物</text>
 <text x="980" y="1495" font-size="12.5" font-weight="600" fill="#1f2937">1 份框架（五步法 + 对照表）</text>
 <text x="980" y="1524" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#6b7280">45-ui-vibe-coding</text>
-<text x="32" y="1681" font-size="13" font-weight="700" fill="#ea580c">教学素材</text>
-<text x="108" y="1681" font-size="11" fill="#6b7280">PM 新人友好入口 — 说「直播课件」「产品设计七层」「SWOT 提示词」时调取</text>
-<rect x="32" y="1693" width="394" height="88" rx="8" fill="#ea580c" fill-opacity="0.06" stroke="#ea580c" stroke-width="1.2"/>
-<text x="46" y="1715" font-size="12" font-weight="700" fill="#ea580c">03-直播课件</text>
-<text x="46" y="1735" font-size="11.5" fill="#4b5563">用 WorkBuddy 写出 ChemAI 18 份文档</text>
-<text x="46" y="1769" font-size="10.5" fill="#6b7280">覆盖：1→3 段串讲</text>
-<rect x="442" y="1693" width="394" height="88" rx="8" fill="#ea580c" fill-opacity="0.06" stroke="#ea580c" stroke-width="1.2"/>
-<text x="456" y="1715" font-size="12" font-weight="700" fill="#ea580c">产品设计七层课件</text>
-<text x="456" y="1735" font-size="11.5" fill="#4b5563">ChemAI 产品设计 — 业务系统 · Agent 设计 · 评测体系 · 原型验证</text>
-<text x="456" y="1751" font-size="11.5" fill="#4b5563">（v41，46 页）</text>
-<text x="456" y="1769" font-size="10.5" fill="#6b7280">覆盖：4+6+7 段（七设计层 + 35/38/43/41）</text>
-<rect x="852" y="1693" width="394" height="88" rx="8" fill="#ea580c" fill-opacity="0.06" stroke="#ea580c" stroke-width="1.2"/>
-<text x="866" y="1715" font-size="12" font-weight="700" fill="#ea580c">SWOT 配套提示词</text>
-<text x="866" y="1735" font-size="11.5" fill="#4b5563">素材整理→初稿→强化→自检 4 段</text>
-<text x="866" y="1769" font-size="10.5" fill="#6b7280">覆盖：第 1 段 02-SWOT 配套</text>
-<text x="32" y="1801" font-size="11" font-weight="700" fill="#1f2937">同步更新约定</text>
-<text x="32" y="1819" font-size="10.5" fill="#6b7280">编辑 capability-map-data.json → python3 capability-map-gen.py → 检查 SVG 无溢出（本图文本自动换行、行高按内容自适应）</text>
-<text x="32" y="1837" font-size="10.5" fill="#6b7280">段间依赖：1→2→3→4→5、4→6/7、6→7/8、7→8 — 完整清单见 data 文件 dependencies 字段</text>
-<text x="908" y="1805" font-size="11" font-weight="700" fill="#1f2937">子技能配色</text>
-<circle cx="986" cy="1801" r="5" fill="#7c3aed"/>
-<text x="995" y="1805" font-size="10" fill="#4b5563">mi</text>
-<circle cx="1042" cy="1801" r="5" fill="#2563eb"/>
-<text x="1051" y="1805" font-size="10" fill="#4b5563">uv</text>
-<circle cx="1098" cy="1801" r="5" fill="#0891b2"/>
-<text x="1107" y="1805" font-size="10" fill="#4b5563">vb</text>
-<circle cx="1154" cy="1801" r="5" fill="#059669"/>
-<text x="1163" y="1805" font-size="10" fill="#4b5563">pd</text>
-<circle cx="1210" cy="1801" r="5" fill="#dc2626"/>
-<text x="1219" y="1805" font-size="10" fill="#4b5563">prd</text>
+
+<text x="32" y="1669" font-size="11" font-weight="700" fill="#1f2937">同步更新约定</text>
+<text x="32" y="1687" font-size="10.5" fill="#6b7280">编辑 capability-map-data.json → python3 capability-map-gen.py → 检查 SVG 无溢出（本图文本自动换行、行高按内容自适应）</text>
+<text x="32" y="1705" font-size="10.5" fill="#6b7280">段间依赖：1→2→3→4→5、4→6/7、6→7/8、7→8 — 完整清单见 data 文件 dependencies 字段</text>
+<text x="908" y="1673" font-size="11" font-weight="700" fill="#1f2937">子技能配色</text>
+<circle cx="986" cy="1669" r="5" fill="#7c3aed"/>
+<text x="995" y="1673" font-size="10" fill="#4b5563">mi</text>
+<circle cx="1042" cy="1669" r="5" fill="#2563eb"/>
+<text x="1051" y="1673" font-size="10" fill="#4b5563">uv</text>
+<circle cx="1098" cy="1669" r="5" fill="#0891b2"/>
+<text x="1107" y="1673" font-size="10" fill="#4b5563">vb</text>
+<circle cx="1154" cy="1669" r="5" fill="#059669"/>
+<text x="1163" y="1673" font-size="10" fill="#4b5563">pd</text>
+<circle cx="1210" cy="1669" r="5" fill="#dc2626"/>
+<text x="1219" y="1673" font-size="10" fill="#4b5563">prd</text>
 </svg>

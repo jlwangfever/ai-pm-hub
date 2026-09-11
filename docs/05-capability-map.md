@@ -164,7 +164,7 @@
 
 ## 6. 能力地图可视化同步
 
-`docs/images/capability-map.svg` 由 `tools/capability-map-gen.py` 从 `skills/ai-pm-hub/references/capability-map-data.json` 生成。
+`docs/images/capability-map.svg` 由 `tools/capability-map-gen.py` 从 `tools/capability-map-data.json` 生成。
 
 **不要手改 SVG**。改完 JSON 后跑：
 
@@ -173,3 +173,7 @@ python3 tools/capability-map-gen.py
 ```
 
 详见 [docs/04-how-to-extend.md](04-how-to-extend.md) 的「怎么维护能力地图」一节。
+
+## 7. 关于教学素材
+
+本仓库当前**不包含教学课件**。如未来加入，会在 `skills/<子技能>/references/teaching/` 下以 `courseware-*.md` / `.html` 形式存在，并明确标注第三方来源。

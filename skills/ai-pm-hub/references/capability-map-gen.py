@@ -165,7 +165,8 @@ for h in ROW_H:
     _acc += h + ROW_GAP
 
 BODY_END = _acc
-H = BODY_END + TEACH_H + FOOTER_H
+_H_TEACH = TEACH_H if teaching else 0
+H = BODY_END + _H_TEACH + FOOTER_H
 
 # ============================================================
 # 渲染
@@ -340,6 +341,8 @@ def header():
 # 教学素材带
 # ============================================================
 def teaching_band():
+    if not teaching:
+        return ""  # 教学素材为空时不画带
     y0 = BODY_END + 12
     parts = [
       f'<text x="{PADDING}" y="{y0+18}" font-size="13" font-weight="700" fill="{TEACH_COLOR}">教学素材</text>',
